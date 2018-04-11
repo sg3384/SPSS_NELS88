@@ -1,6 +1,6 @@
-﻿* Encoding: UTF-8.
+* Encoding: UTF-8.
 
- * Submitted By: Shreya Goel | shreya.goel@columbia.edu
+* Submitted By: Shreya Goel | shreya.goel@columbia.edu
 
 * Syntax File SPSS
 * Data Source : NELS88 - National Education Longitudnal Study 1988 (Public Data Source).
