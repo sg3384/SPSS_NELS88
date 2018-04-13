@@ -1,8 +1,6 @@
 # Predict Reading Scores using NELS88 Data
 
-Technical Skills: SPSS, Word, Power Point
-
-Other Skills: Data Exploration, Feature Engineering, Regression, Data Analysis, Documentation of Synatx and Analysis
+Skills utilized by Shreya include: SPSS, Word, Power Point, Data Exploration, Feature Engineering, Model Selection, Regression, Data Analysis, Documentation of Synatx and Analysis
 
 Data Source : NELS88 - National Education Longitudnal Study 1988 (Public Data Source).
 
