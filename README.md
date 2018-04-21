@@ -1,13 +1,14 @@
 # Predict Reading Scores using NELS88 Data
 
-### Skills utilized by Shreya include: 
-SPSS, Word, Power Point, Data Exploration, Feature Engineering, Model Selection, Regression, Data Analysis, Documentation of Synatx and Analysis
 
 ### Data Source:
-NELS88 - National Education Longitudnal Study 1988 (Public Data Source).
+NELS88 - National Education Longitudnal Study 1988. (Public Data Source)
 
 ### Syntax File SPSS (Code) includes:
 Descriptive Analysis + Cleaning Data + Mutating Variables + Regression Models
+
+### Skills utilized by Shreya include: 
+SPSS, Word, Power Point, Data Exploration, Feature Engineering, Model Selection, Regression, Data Analysis, Documentation of Synatx and Analysis
 
 #### My Contribution
 I completed the Data Analysis and Syntax Documentation for the paper as a part of a technical group project. To reach the hypothesis of predicting the reading scores and choosing the variables for analysis, I ran more than 70 models for initial analysis which are not documented in the syntax. I also wrote the results from analysis for the paper along with the final conclusion. 
